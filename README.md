@@ -9,7 +9,7 @@
 <hr>
 <h3>🔑 Key Features</h3>
 <ul>
-  <li>Advanced Algorithms: Implementation of Random Forest, SVM, and Neural Networks for cancer detection.</li>
+  <li>Advanced Algorithms: Implementation of Random Forest, SVM, KNN, Ridge Regression  and GaussianNaive Bayes Models for lung cancer detection.</li>
   <li>Data Preprocessing: Techniques for data cleaning, normalization, and augmentation.</li>
   <li>Feature Engineering: Extraction of significant features from imaging datasets.</li>
   <li>Performance Metrics: Evaluation scripts for accuracy, sensitivity, and specificity.</li>
