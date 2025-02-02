@@ -4,7 +4,7 @@
 <h1>Lung Cancer Detection Using Machine Learning Methods</h1>
 <p><strong>Published in:</strong> <em>IEEE Xplore</em></p>
 <p><strong>DOI:</strong> <a href="https://ieeexplore.ieee.org/document/10487685">10.1109/10487685</a></p>
-<p><strong>Paper:</strong> <a href="https://ieeexplore.ieee.org/document/10487685"></a></p>
+<p><strong>Paper:</strong> <a href="https://ieeexplore.ieee.org/document/10487685">https://ieeexplore.ieee.org/document/10487685</a></p>
 
 <p>Welcome to the official code repository for the paper: <strong>"Lung Cancer Detection Using Machine Learning Methods."</strong></p>
 <p>This repository provides resources, scripts, and models developed to create a comprehensive framework for <strong>lung cancer detection</strong> using advanced <strong>machine learning techniques</strong>.</p>
